@@ -3,7 +3,7 @@
   "description": "Makes pages editable",
   "private": true,
   "devDependencies": {
-    "bestzip": "^1.1.4"
+    "bestzip": "^1.1.6"
   },
   "scripts": {
     "start": "bestzip contenteditable.zip _locales images background.js manifest.json"
